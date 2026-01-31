@@ -77,8 +77,6 @@ Esto instala todas las librerías necesarias para que el proyecto funcione corre
 GOOGLE_API_KEY=TU_API_KEY_AQUÍ
 ```
 
-⚠️ **IMPORTANTE:** El archivo `.env` **NO debe subirse a GitHub**. Contiene información sensible.
-
 ---
 
 ### 5.3 Ejecución del Programa
