@@ -185,7 +185,7 @@ python-dotenv
 
 ---
 
-### 📂 .env (NO SUBIR A GITHUB)
+### 📂 .env (por seguridad NO se sube este archivo)
 
 * Contiene la API Key real.
 * Git debe ignorarlo mediante `.gitignore`.
